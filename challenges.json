@@ -1,0 +1,2300 @@
+{
+    "Sum \"A+B\"": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sum-of-two",
+            "is_completed": false
+        }
+    ],
+    "Sum in Loop": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sum-in-loop",
+            "is_completed": false
+        }
+    ],
+    "Sums in Loop": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sums-in-loop",
+            "is_completed": false
+        }
+    ],
+    "Minimum of Two": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/min-of-two",
+            "is_completed": false
+        }
+    ],
+    "Minimum of Three": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/min-of-three",
+            "is_completed": false
+        }
+    ],
+    "Maximum of array": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/maximum-of-array",
+            "is_completed": false
+        }
+    ],
+    "Rounding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rounding",
+            "is_completed": false
+        }
+    ],
+    "Fahrenheit to Celsius": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fahrenheit-celsius",
+            "is_completed": false
+        }
+    ],
+    "Vowel Count": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/vowel-count",
+            "is_completed": false
+        }
+    ],
+    "Sum of digits": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sum-of-digits",
+            "is_completed": false
+        }
+    ],
+    "Median of Three": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/median-of-three",
+            "is_completed": false
+        }
+    ],
+    "Arithmetic Progression": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/arithmetic-progression",
+            "is_completed": false
+        }
+    ],
+    "Body Mass Index": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/body-mass-index",
+            "is_completed": false
+        }
+    ],
+    "Triangles": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/triangles",
+            "is_completed": false
+        }
+    ],
+    "Weighted sum of digits": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/weighted-sum-of-digits",
+            "is_completed": false
+        }
+    ],
+    "Dice Rolling": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dice-rolling",
+            "is_completed": false
+        }
+    ],
+    "Average of an array": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/average-of-array",
+            "is_completed": false
+        }
+    ],
+    "Reverse String": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/reverse-string",
+            "is_completed": false
+        }
+    ],
+    "Array Checksum": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/array-checksum",
+            "is_completed": false
+        }
+    ],
+    "Array Counters": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/array-counters",
+            "is_completed": false
+        }
+    ],
+    "Collatz Sequence": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/collatz-sequence",
+            "is_completed": false
+        }
+    ],
+    "Linear Function": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/linear-function",
+            "is_completed": false
+        }
+    ],
+    "Modulo and time difference": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/modulo-and-time-difference",
+            "is_completed": false
+        }
+    ],
+    "Modular Calculator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/modular-calculator",
+            "is_completed": false
+        }
+    ],
+    "Bubble Sort": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bubble-sort",
+            "is_completed": false
+        }
+    ],
+    "Greatest Common Divisor": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/greatest-common-divisor",
+            "is_completed": false
+        }
+    ],
+    "Square Root": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/square-root",
+            "is_completed": false
+        }
+    ],
+    "Sort with Indexes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sort-with-indexes",
+            "is_completed": false
+        }
+    ],
+    "Palindromes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/palindromes",
+            "is_completed": false
+        }
+    ],
+    "Bubble in Array": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bubble-in-array",
+            "is_completed": false
+        }
+    ],
+    "Pythagorean Theorem": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/pythagorean-theorem",
+            "is_completed": false
+        }
+    ],
+    "Rotate String": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rotate-string",
+            "is_completed": false
+        }
+    ],
+    "Fibonacci Sequence": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fibonacci-sequence",
+            "is_completed": false
+        }
+    ],
+    "Bicycle Race": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bicycle-race",
+            "is_completed": false
+        }
+    ],
+    "Smoothing the Weather": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/smoothing-the-weather",
+            "is_completed": false
+        }
+    ],
+    "Neumann's Random Generator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/neumanns-random-generator",
+            "is_completed": false
+        }
+    ],
+    "Triangle Area": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/triangle-area",
+            "is_completed": false
+        }
+    ],
+    "Savings Calculator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/savings-calculator",
+            "is_completed": false
+        }
+    ],
+    "Bit Count": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bit-count",
+            "is_completed": false
+        }
+    ],
+    "Linear Congruential Generator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/linear-congruential-generator",
+            "is_completed": false
+        }
+    ],
+    "Double Dice Roll": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/double-dice-roll",
+            "is_completed": false
+        }
+    ],
+    "Josephus Problem": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/josephus-problem",
+            "is_completed": false
+        }
+    ],
+    "Combinations Counting": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/combinations-counting",
+            "is_completed": false
+        }
+    ],
+    "Matching Brackets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/matching-brackets",
+            "is_completed": false
+        }
+    ],
+    "Caesar Shift Cipher": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/caesar-shift-cipher",
+            "is_completed": false
+        }
+    ],
+    "Card Names": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/card-names",
+            "is_completed": false
+        }
+    ],
+    "Rock Paper Scissors": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rock-paper-scissors",
+            "is_completed": false
+        }
+    ],
+    "Matching Words": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/matching-words",
+            "is_completed": false
+        }
+    ],
+    "Fool's Day 2014": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fools-day-2014",
+            "is_completed": false
+        }
+    ],
+    "Bulls and Cows": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bulls-and-cows",
+            "is_completed": false
+        }
+    ],
+    "Prime Numbers Generation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/prime-numbers-generation",
+            "is_completed": false
+        }
+    ],
+    "Two Printers": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/two-printers",
+            "is_completed": false
+        }
+    ],
+    "Selection Sort": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/selection-sort",
+            "is_completed": false
+        }
+    ],
+    "Blackjack Counting": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/blackjack-counting",
+            "is_completed": false
+        }
+    ],
+    "Quadratic Equation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/quadratic-equation",
+            "is_completed": false
+        }
+    ],
+    "Tree Height Measurement": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tree-height-measurement",
+            "is_completed": false
+        }
+    ],
+    "Parity Control": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/parity-control",
+            "is_completed": false
+        }
+    ],
+    "King and Queen": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/king-and-queen",
+            "is_completed": false
+        }
+    ],
+    "Binary Search": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/binary-search",
+            "is_completed": false
+        }
+    ],
+    "Fibonacci Divisibility": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fibonacci-divisibility",
+            "is_completed": false
+        }
+    ],
+    "Mortgage Calculator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/mortgage-calculator",
+            "is_completed": false
+        }
+    ],
+    "Cards Shuffling": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/cards-shuffling",
+            "is_completed": false
+        }
+    ],
+    "Integer Factorization": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/integer-factorization",
+            "is_completed": false
+        }
+    ],
+    "Tic-Tac-Toe": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tic-tac-toe",
+            "is_completed": false
+        }
+    ],
+    "E2C2S - try harder!": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/e2c2s-try-harder",
+            "is_completed": false
+        }
+    ],
+    "Insertion Sort": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/insertion-sort",
+            "is_completed": false
+        }
+    ],
+    "Funny Words Generator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/funny-words-generator",
+            "is_completed": false
+        }
+    ],
+    "Cloud Altitude Measurement": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/cloud-altitude-measurement",
+            "is_completed": false
+        }
+    ],
+    "Prime Ranges": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/prime-ranges",
+            "is_completed": false
+        }
+    ],
+    "Anagrams": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/anagrams",
+            "is_completed": false
+        }
+    ],
+    "Yacht or Dice Poker": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/yacht-or-dice-poker",
+            "is_completed": false
+        }
+    ],
+    "Flying Text Screensaver": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/flying-text-screensaver",
+            "is_completed": false
+        }
+    ],
+    "Share Price Volatility": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/share-price-volatility",
+            "is_completed": false
+        }
+    ],
+    "Luhn Algorithm": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/luhn-algorithm",
+            "is_completed": false
+        }
+    ],
+    "Tricky Printing": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tricky-printing",
+            "is_completed": false
+        }
+    ],
+    "Duel Chances": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/duel-chances",
+            "is_completed": false
+        }
+    ],
+    "Variable Length Code": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/variable-length-code",
+            "is_completed": false
+        }
+    ],
+    "Clock Hands": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/clock-hands",
+            "is_completed": false
+        }
+    ],
+    "Code Guesser": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/code-guesser",
+            "is_completed": false
+        }
+    ],
+    "Convex Polygon Area": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/convex-polygon-area",
+            "is_completed": false
+        }
+    ],
+    "Modular Exponentiation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/modular-exponentiation",
+            "is_completed": false
+        }
+    ],
+    "Pythagorean Triples": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/pythagorean-triples",
+            "is_completed": false
+        }
+    ],
+    "Finding Squares": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/finding-squares",
+            "is_completed": false
+        }
+    ],
+    "Summing Up": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/summing-up",
+            "is_completed": false
+        }
+    ],
+    "Hexagonal Grid": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hexagonal-grid",
+            "is_completed": false
+        }
+    ],
+    "Static Web Page": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/static-web-page",
+            "is_completed": false
+        }
+    ],
+    "Girls and Pigs": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/girls-and-pigs",
+            "is_completed": false
+        }
+    ],
+    "Basics of HTML": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/basics-of-html",
+            "is_completed": false
+        }
+    ],
+    "Reverse Polish Notation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/reverse-polish-notation",
+            "is_completed": false
+        }
+    ],
+    "QuickSort": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/quicksort",
+            "is_completed": false
+        }
+    ],
+    "Die Throw Sequences": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/die-throw-sequences",
+            "is_completed": false
+        }
+    ],
+    "Azimuth at Treasure Island": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/azimuth-at-treasure-island",
+            "is_completed": false
+        }
+    ],
+    "Rotation in 2D Space": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rotation-in-2d-space",
+            "is_completed": false
+        }
+    ],
+    "Dungeons and Dragons Dice": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dungeons-and-dragons-dice",
+            "is_completed": false
+        }
+    ],
+    "Life is Simple": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/life-is-simple",
+            "is_completed": false
+        }
+    ],
+    "Most Frequent Word": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/most-frequent-word",
+            "is_completed": false
+        }
+    ],
+    "Caesar Cipher Cracker": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/caesar-cipher-cracker",
+            "is_completed": false
+        }
+    ],
+    "Paths in the Grid": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/paths-in-the-grid",
+            "is_completed": false
+        }
+    ],
+    "Pitch and Notes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/pitch-and-notes",
+            "is_completed": false
+        }
+    ],
+    "Star Medals": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/star-medals",
+            "is_completed": false
+        }
+    ],
+    "Information Entropy": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/information-entropy",
+            "is_completed": false
+        }
+    ],
+    "Suffix Array": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/suffix-array",
+            "is_completed": false
+        }
+    ],
+    "Simple Linear Regression": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/simple-linear-regression",
+            "is_completed": false
+        }
+    ],
+    "Tree Builder": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tree-builder",
+            "is_completed": false
+        }
+    ],
+    "Say 100": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/say-100",
+            "is_completed": false
+        }
+    ],
+    "Sweet Harvest": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sweet-harvest",
+            "is_completed": false
+        }
+    ],
+    "Point to Segment Distance": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/point-to-segment-distance",
+            "is_completed": false
+        }
+    ],
+    "Brainfuck Interpreter": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/brainfuck-interpreter",
+            "is_completed": false
+        }
+    ],
+    "Mul Two": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/mul-two",
+            "is_completed": false
+        }
+    ],
+    "Extended Euclidean Algorithm": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/extended-euclidean-algorithm",
+            "is_completed": false
+        }
+    ],
+    "Game of 2048": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/game-of-2048",
+            "is_completed": false
+        }
+    ],
+    "Spaceship Weight Fraud": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/spaceship-weight-fraud",
+            "is_completed": false
+        }
+    ],
+    "Fibonacci Divisibility Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fibonacci-divisibility-advanced",
+            "is_completed": false
+        }
+    ],
+    "Base-32 Encoding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/base-32-encoding",
+            "is_completed": false
+        }
+    ],
+    "Brain Fibo": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/brain-fibo",
+            "is_completed": false
+        }
+    ],
+    "Gradient Calculation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/gradient-calculation",
+            "is_completed": false
+        }
+    ],
+    "Levenshtein Distance": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/levenshtein-distance",
+            "is_completed": false
+        }
+    ],
+    "Dynamic Web Page": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dynamic-web-page",
+            "is_completed": false
+        }
+    ],
+    "Instrument Tuner": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/instrument-tuner",
+            "is_completed": false
+        }
+    ],
+    "Four Pics One Word": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/four-pics-one-word",
+            "is_completed": false
+        }
+    ],
+    "Maze Pathfinder": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/maze-pathfinder",
+            "is_completed": false
+        }
+    ],
+    "Sum of Digits Divisibility": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sum-of-digits-divisibility",
+            "is_completed": false
+        }
+    ],
+    "Dice with Infinity Sides": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dice-with-infinity-sides",
+            "is_completed": false
+        }
+    ],
+    "Cycles Detection": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/cycles-detection",
+            "is_completed": false
+        }
+    ],
+    "Image Cutting": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/image-cutting",
+            "is_completed": false
+        }
+    ],
+    "Binary Heap": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/binary-heap",
+            "is_completed": false
+        }
+    ],
+    "Introducing Regexps": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/introducing-regexps",
+            "is_completed": false
+        }
+    ],
+    "Loops in Assembly": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/loops-in-assembly",
+            "is_completed": false
+        }
+    ],
+    "Variable Length Code Unpack": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/variable-length-code-unpack",
+            "is_completed": false
+        }
+    ],
+    "Sequence of Squares": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sequence-of-squares",
+            "is_completed": false
+        }
+    ],
+    "Binary Search in Array": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/binary-search-in-array",
+            "is_completed": false
+        }
+    ],
+    "Copy Line": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/copy-line",
+            "is_completed": false
+        }
+    ],
+    "Longest Common Subsequence": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/longest-common-subsequence",
+            "is_completed": false
+        }
+    ],
+    "Graph Generator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/graph-generator",
+            "is_completed": false
+        }
+    ],
+    "Cartesian Tree Visualization": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/cartesian-tree-visualization",
+            "is_completed": false
+        }
+    ],
+    "Lexicographic Permutations": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/lexicographic-permutations",
+            "is_completed": false
+        }
+    ],
+    "Breadth First Search": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/breadth-first-search",
+            "is_completed": false
+        }
+    ],
+    "Pages to Print": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/pages-to-print",
+            "is_completed": false
+        }
+    ],
+    "Bezier Curves": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bezier-curves",
+            "is_completed": false
+        }
+    ],
+    "Skyscraper Price": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/skyscraper-price",
+            "is_completed": false
+        }
+    ],
+    "Divide by Two": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/divide-by-two",
+            "is_completed": false
+        }
+    ],
+    "String Minimization": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/string-minimization",
+            "is_completed": false
+        }
+    ],
+    "Uphill Shooting": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/uphill-shooting",
+            "is_completed": false
+        }
+    ],
+    "Number Base Palindrome": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/number-base-palindrome",
+            "is_completed": false
+        }
+    ],
+    "Transitive Closure on Candy States": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/transitive-closure-on-candy-states",
+            "is_completed": false
+        }
+    ],
+    "Calculation of Pi": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/calculation-of-pi",
+            "is_completed": false
+        }
+    ],
+    "Depth First Search": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/depth-first-search",
+            "is_completed": false
+        }
+    ],
+    "Modular Inverse": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/modular-inverse",
+            "is_completed": false
+        }
+    ],
+    "Topological Sorting": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/topological-sorting",
+            "is_completed": false
+        }
+    ],
+    "Safe Landing": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/safe-landing",
+            "is_completed": false
+        }
+    ],
+    "Query String Parameters": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/query-string-parameters",
+            "is_completed": false
+        }
+    ],
+    "Billiard Ball": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/billiard-ball",
+            "is_completed": false
+        }
+    ],
+    "Space Invaders": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/space-invaders",
+            "is_completed": false
+        }
+    ],
+    "Next Palindrome": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/next-palindrome",
+            "is_completed": false
+        }
+    ],
+    "Space Invaders Automation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/space-invaders-automation",
+            "is_completed": false
+        }
+    ],
+    "Treap Study": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/treap-study",
+            "is_completed": false
+        }
+    ],
+    "Whisky Blending": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/whisky-blending",
+            "is_completed": false
+        }
+    ],
+    "Matches Picking": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/matches-picking",
+            "is_completed": false
+        }
+    ],
+    "Proper Bracket Sequences": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/proper-bracket-sequences",
+            "is_completed": false
+        }
+    ],
+    "Snake Arcade": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/snake-arcade",
+            "is_completed": false
+        }
+    ],
+    "Pawn Move Validator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/pawn-move-validator",
+            "is_completed": false
+        }
+    ],
+    "Easter Eggs": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-eggs",
+            "is_completed": false
+        }
+    ],
+    "Arthur Engel's Randomizer": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/arthur-engels-randomizer",
+            "is_completed": false
+        }
+    ],
+    "Knapsack of Integers": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/knapsack-of-integers",
+            "is_completed": false
+        }
+    ],
+    "Chords of Music": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/chords-of-music",
+            "is_completed": false
+        }
+    ],
+    "Starving Priority Queue": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/starving-priority-queue",
+            "is_completed": false
+        }
+    ],
+    "Introducing Zeckendorf": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/introducing-zeckendorf",
+            "is_completed": false
+        }
+    ],
+    "Bogosort": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bogosort",
+            "is_completed": false
+        }
+    ],
+    "Dijkstra in the Network": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dijkstra-in-the-network",
+            "is_completed": false
+        }
+    ],
+    "Combinations with Repetitions": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/combinations-with-repetitions",
+            "is_completed": false
+        }
+    ],
+    "Find 3 Numbers": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/find-3-numbers",
+            "is_completed": false
+        }
+    ],
+    "Roman Arithmetic": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/roman-arithmetic",
+            "is_completed": false
+        }
+    ],
+    "Color Cubes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/color-cubes",
+            "is_completed": false
+        }
+    ],
+    "Word Ladders": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/word-ladders",
+            "is_completed": false
+        }
+    ],
+    "Lucky Tickets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/lucky-tickets",
+            "is_completed": false
+        }
+    ],
+    "Neighborhood of a String": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/neighborhood-of-a-string",
+            "is_completed": false
+        }
+    ],
+    "Page Rank": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/page-rank",
+            "is_completed": false
+        }
+    ],
+    "Enumerating Combinations": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/enumerating-combinations",
+            "is_completed": false
+        }
+    ],
+    "Huffman Coding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/huffman-coding",
+            "is_completed": false
+        }
+    ],
+    "Employees Web App": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/employees-web-app",
+            "is_completed": false
+        }
+    ],
+    "Convex Hull and Farmers": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/convex-hull-and-farmers",
+            "is_completed": false
+        }
+    ],
+    "Beam Balance and Masses": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/beam-balance-and-masses",
+            "is_completed": false
+        }
+    ],
+    "Point in Polygon": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/point-in-polygon",
+            "is_completed": false
+        }
+    ],
+    "Shannon-Fano Coding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/shannon-fano-coding",
+            "is_completed": false
+        }
+    ],
+    "RSA Cryptography": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rsa-cryptography",
+            "is_completed": false
+        }
+    ],
+    "Gangster Battles": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/gangster-battles",
+            "is_completed": false
+        }
+    ],
+    "Necklace Count": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/necklace-count",
+            "is_completed": false
+        }
+    ],
+    "Introducing SQL": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/introducing-sql",
+            "is_completed": false
+        }
+    ],
+    "Caesar meets BF": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/caesar-meets-bf",
+            "is_completed": false
+        }
+    ],
+    "Lucky Tickets Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/lucky-tickets-advanced",
+            "is_completed": false
+        }
+    ],
+    "Prn Hex Str": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/prn-hex-str",
+            "is_completed": false
+        }
+    ],
+    "Dancing Pairs": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dancing-pairs",
+            "is_completed": false
+        }
+    ],
+    "Look and Say binary": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/look-and-say-binary",
+            "is_completed": false
+        }
+    ],
+    "Aggregations in SQL": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/aggregations-in-sql",
+            "is_completed": false
+        }
+    ],
+    "Rubik's Cube": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rubiks-cube",
+            "is_completed": false
+        }
+    ],
+    "Sick Travellers": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sick-travellers",
+            "is_completed": false
+        }
+    ],
+    "Public Key Cryptography Intro": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/public-key-cryptography-intro",
+            "is_completed": false
+        }
+    ],
+    "Nim Game": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/nim-game",
+            "is_completed": false
+        }
+    ],
+    "Random Search Optimization": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/random-search-optimization",
+            "is_completed": false
+        }
+    ],
+    "Knapsack Backtracking": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/knapsack-backtracking",
+            "is_completed": false
+        }
+    ],
+    "Frodo and Black Riders": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/frodo-and-black-riders",
+            "is_completed": false
+        }
+    ],
+    "Simple 3D Scene": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/simple-3d-scene",
+            "is_completed": false
+        }
+    ],
+    "Fibonacci coding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fibonacci-coding",
+            "is_completed": false
+        }
+    ],
+    "Social Web Scraper": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/social-web-scraper",
+            "is_completed": false
+        }
+    ],
+    "Hamming Codes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hamming-codes",
+            "is_completed": false
+        }
+    ],
+    "Nicomachus": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/nicomachus",
+            "is_completed": false
+        }
+    ],
+    "Travelling Salesman": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/travelling-salesman",
+            "is_completed": false
+        }
+    ],
+    "Emirp primE": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/emirp-prime",
+            "is_completed": false
+        }
+    ],
+    "Roguelike 1d": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/roguelike-1d",
+            "is_completed": false
+        }
+    ],
+    "Vigenere Cipher": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/vigenere-cipher",
+            "is_completed": false
+        }
+    ],
+    "Beautiful Line Chart": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/beautiful-line-chart",
+            "is_completed": false
+        }
+    ],
+    "Joins in SQL": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/joins-in-sql",
+            "is_completed": false
+        }
+    ],
+    "Fibonacci Randomizer": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fibonacci-randomizer",
+            "is_completed": false
+        }
+    ],
+    "The Adventure of Morse Code": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/adventure-of-morse-code",
+            "is_completed": false
+        }
+    ],
+    "Hard Life": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hard-life",
+            "is_completed": false
+        }
+    ],
+    "Hurkle": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hurkle",
+            "is_completed": false
+        }
+    ],
+    "Basic Tokenizer": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/basic-tokenizer",
+            "is_completed": false
+        }
+    ],
+    "Text Justification": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/text-justification",
+            "is_completed": false
+        }
+    ],
+    "Venus Visible": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/venus-visible",
+            "is_completed": false
+        }
+    ],
+    "Language Detector": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/language-detector",
+            "is_completed": false
+        }
+    ],
+    "Mandelbrot Set": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/mandelbrot-set",
+            "is_completed": false
+        }
+    ],
+    "Hurkle Hunter": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hurkle-hunter",
+            "is_completed": false
+        }
+    ],
+    "Update in SQL": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/update-in-sql",
+            "is_completed": false
+        }
+    ],
+    "Euclid, Manhattan and Chebyshev": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/euclid-manhattan-and-chebyshev",
+            "is_completed": false
+        }
+    ],
+    "Fermat goes hacking RSA": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fermat-goes-hacking-rsa",
+            "is_completed": false
+        }
+    ],
+    "Find all of the SETs": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/find-all-of-the-sets",
+            "is_completed": false
+        }
+    ],
+    "Crossing the Road": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/crossing-the-road",
+            "is_completed": false
+        }
+    ],
+    "Sliding Window Search": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sliding-window-search",
+            "is_completed": false
+        }
+    ],
+    "Suffix Array Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/suffix-array-advanced",
+            "is_completed": false
+        }
+    ],
+    "Gradient Descent for SLE": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/gradient-descent-for-system-of-linear-equations",
+            "is_completed": false
+        }
+    ],
+    "Simple 3D Scene (cont)": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/simple-3d-scene-cont",
+            "is_completed": false
+        }
+    ],
+    "Rogue Mazes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rogue-mazes",
+            "is_completed": false
+        }
+    ],
+    "Ticket Puzzle": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/ticket-puzzle",
+            "is_completed": false
+        }
+    ],
+    "Squirrels vs. Acorns": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/squirrels-vs-acorns",
+            "is_completed": false
+        }
+    ],
+    "Page Rank as Eigenvector": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/page-rank-as-eigenvector",
+            "is_completed": false
+        }
+    ],
+    "Maximum Flow": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/maximum-flow",
+            "is_completed": false
+        }
+    ],
+    "Too Many Divisors": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/too-many-divisors",
+            "is_completed": false
+        }
+    ],
+    "Tic-Tac-Toe Minimax Algorithm": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tic-tac-toe-minimax-algorithm",
+            "is_completed": false
+        }
+    ],
+    "LZ77 decompression": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/lz77-decompression",
+            "is_completed": false
+        }
+    ],
+    "Neural Network Calculation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/neural-network-calculation",
+            "is_completed": false
+        }
+    ],
+    "Count the Common Factors": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/count-the-common-factors",
+            "is_completed": false
+        }
+    ],
+    "Ulam's Prime Spiral": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/ulams-prime-spiral",
+            "is_completed": false
+        }
+    ],
+    "Travelling Salesman Inverted": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/travelling-salesman-inverted",
+            "is_completed": false
+        }
+    ],
+    "Ground Zero": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/ground-zero",
+            "is_completed": false
+        }
+    ],
+    "Unwanted Multiples": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/unwanted-multiples",
+            "is_completed": false
+        }
+    ],
+    "Algae Robot": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/algae-robot",
+            "is_completed": false
+        }
+    ],
+    "Colliding Balls": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/colliding-balls",
+            "is_completed": false
+        }
+    ],
+    "Cracking Linear Congruential Generator": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/cracking-lcg",
+            "is_completed": false
+        }
+    ],
+    "Stream Cipher Breaking": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/stream-cipher-breaking",
+            "is_completed": false
+        }
+    ],
+    "Fizz Buzz in Asm": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/fizz-buzz-in-asm",
+            "is_completed": false
+        }
+    ],
+    "Clustering the Stars": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/clustering-the-stars",
+            "is_completed": false
+        }
+    ],
+    "The Problem of Too Many Clues": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/the-problem-of-too-many-clues",
+            "is_completed": false
+        }
+    ],
+    "Two Buckets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/two-buckets",
+            "is_completed": false
+        }
+    ],
+    "Wandering Star": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/wandering-star",
+            "is_completed": false
+        }
+    ],
+    "Easter Bunnies": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-bunnies",
+            "is_completed": false
+        }
+    ],
+    "Move-To-Front Transform": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/move-to-front-transform",
+            "is_completed": false
+        }
+    ],
+    "Jewels": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/jewels",
+            "is_completed": false
+        }
+    ],
+    "Burrows": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/burrows",
+            "is_completed": false
+        }
+    ],
+    "BCD to Hex": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bcd-to-hex",
+            "is_completed": false
+        }
+    ],
+    "Knight's Tour": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/knights-tour",
+            "is_completed": false
+        }
+    ],
+    "Village Ways": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/village-ways",
+            "is_completed": false
+        }
+    ],
+    "Railroad Rat": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/railroad-rat",
+            "is_completed": false
+        }
+    ],
+    "Merge Sort": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/merge-sort",
+            "is_completed": false
+        }
+    ],
+    "Parking Lot": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/parking-lot",
+            "is_completed": false
+        }
+    ],
+    "Flappy Bird": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/flappy-bird",
+            "is_completed": false
+        }
+    ],
+    "Flower Border Arrangements": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/flower-border-arrangements",
+            "is_completed": false
+        }
+    ],
+    "Factorial Trailing Zeroes": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/factorial-trailing-zeroes",
+            "is_completed": false
+        }
+    ],
+    "Missing Records in SQL": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/missing-records-in-sql",
+            "is_completed": false
+        }
+    ],
+    "Easter Bunnies Are Back": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-bunnies-are-back",
+            "is_completed": false
+        }
+    ],
+    "Language Study": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/language-study",
+            "is_completed": false
+        }
+    ],
+    "Prime Chains": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/prime-chains",
+            "is_completed": false
+        }
+    ],
+    "Rain Must Fall": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rain-must-fall",
+            "is_completed": false
+        }
+    ],
+    "Zeckendorf Lite": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/zeckendorf-lite",
+            "is_completed": false
+        }
+    ],
+    "Sums of Triplets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sums-of-triplets",
+            "is_completed": false
+        }
+    ],
+    "Throwing Easter Eggs": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/throwing-easter-eggs",
+            "is_completed": false
+        }
+    ],
+    "Maze of the Wumpus": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/maze-of-the-wumpus",
+            "is_completed": false
+        }
+    ],
+    "Long Decimal Fractions": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/long-decimal-fractions",
+            "is_completed": false
+        }
+    ],
+    "Zeckendorf Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/zeckendorf-advanced",
+            "is_completed": false
+        }
+    ],
+    "Color Cubes Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/color-cubes-advanced",
+            "is_completed": false
+        }
+    ],
+    "Simple Game of Sticks": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/simple-game-of-sticks",
+            "is_completed": false
+        }
+    ],
+    "The Shredder Conundrum": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/the-shredder-conundrum",
+            "is_completed": false
+        }
+    ],
+    "Maxit Single-Player": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/maxit-single-player",
+            "is_completed": false
+        }
+    ],
+    "Tree Value": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tree-value",
+            "is_completed": false
+        }
+    ],
+    "Tree Visualizer": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tree-visualizer",
+            "is_completed": false
+        }
+    ],
+    "Seven Segment Decoder": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/seven-segment-decoder",
+            "is_completed": false
+        }
+    ],
+    "Introducing Scheme": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/introducing-scheme",
+            "is_completed": false
+        }
+    ],
+    "Collatz in the Range": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/collatz-in-the-range",
+            "is_completed": false
+        }
+    ],
+    "Burrows-Wheeler Transform": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/burrows-wheeler-transform",
+            "is_completed": false
+        }
+    ],
+    "Palindrome Frog": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/palindrome-frog",
+            "is_completed": false
+        }
+    ],
+    "Colourful Egg Sequences": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/colourful-egg-sequences",
+            "is_completed": false
+        }
+    ],
+    "Connect Four": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/connect-four",
+            "is_completed": false
+        }
+    ],
+    "Hexlife": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hexlife",
+            "is_completed": false
+        }
+    ],
+    "LCM of a range": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/lcm-of-a-range",
+            "is_completed": false
+        }
+    ],
+    "Revoltle": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/revoltle",
+            "is_completed": false
+        }
+    ],
+    "Towers of Hanoi": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/towers-of-hanoi",
+            "is_completed": false
+        }
+    ],
+    "Easter Bunnies 2D Are Back": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-bunnies-2d-are-back",
+            "is_completed": false
+        }
+    ],
+    "Sum Them Forth": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sum-them-forth",
+            "is_completed": false
+        }
+    ],
+    "Rotating Toy Display": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rotating-toy-display",
+            "is_completed": false
+        }
+    ],
+    "Currency Arbitrage": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/currency-arbitrage",
+            "is_completed": false
+        }
+    ],
+    "Predictable Board Game": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/predictable-board-game",
+            "is_completed": false
+        }
+    ],
+    "The Sorites Solution": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/the-sorites-solution",
+            "is_completed": false
+        }
+    ],
+    "Self-Printing Program": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/self-printing-program",
+            "is_completed": false
+        }
+    ],
+    "Rotate Array In-Place": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rotate-array-in-place",
+            "is_completed": false
+        }
+    ],
+    "Run-Length Encoding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/run-length-encoding",
+            "is_completed": false
+        }
+    ],
+    "Happy Triplets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/happy-triplets",
+            "is_completed": false
+        }
+    ],
+    "Throwing Easter Eggs Part 2": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/throwing-easter-eggs-part-2",
+            "is_completed": false
+        }
+    ],
+    "Robots Game": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/robots-game",
+            "is_completed": false
+        }
+    ],
+    "Bear Hunt": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/bear-hunt",
+            "is_completed": false
+        }
+    ],
+    "Village of Ticks": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/village-of-ticks",
+            "is_completed": false
+        }
+    ],
+    "Personality Swap": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/personality-swap",
+            "is_completed": false
+        }
+    ],
+    "Train Merge": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/train-merge",
+            "is_completed": false
+        }
+    ],
+    "Three Buckets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/three-buckets",
+            "is_completed": false
+        }
+    ],
+    "Logic Transformation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/logic-transformation",
+            "is_completed": false
+        }
+    ],
+    "Easter Bunnies 2D": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-bunnies-2d",
+            "is_completed": false
+        }
+    ],
+    "Every Leaf on Every Tree": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/every-leaf-on-every-tree",
+            "is_completed": false
+        }
+    ],
+    "Elliptic Curves Basics": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/elliptic-curves-basics",
+            "is_completed": false
+        }
+    ],
+    "Line Drawing Algorithm": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/line-drawing-algorithm",
+            "is_completed": false
+        }
+    ],
+    "Automated Landing": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/automated-landing",
+            "is_completed": false
+        }
+    ],
+    "Rotate Matrix In Place": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rotate-matrix-in-place",
+            "is_completed": false
+        }
+    ],
+    "A Knight some Trolls and a Princess": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/knight-trolls-and-princess",
+            "is_completed": false
+        }
+    ],
+    "Grille Encryption": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/grille-encryption",
+            "is_completed": false
+        }
+    ],
+    "Turing Increment": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/turing-increment",
+            "is_completed": false
+        }
+    ],
+    "Micro-Life": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/micro-life",
+            "is_completed": false
+        }
+    ],
+    "Robots Game Autoplay": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/robots-game-autoplay",
+            "is_completed": false
+        }
+    ],
+    "Rook Jump Maze": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rook-jump-maze",
+            "is_completed": false
+        }
+    ],
+    "The Mirror Maze": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/the-mirror-maze",
+            "is_completed": false
+        }
+    ],
+    "The Case of the Desperate Mastermind": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/the-case-of-the-desperate-mastermind",
+            "is_completed": false
+        }
+    ],
+    "Ultimate Sort Trial": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/ultimate-sort-trial",
+            "is_completed": false
+        }
+    ],
+    "Turing Clone": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/turing-clone",
+            "is_completed": false
+        }
+    ],
+    "Gray Decoder": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/gray-decoder",
+            "is_completed": false
+        }
+    ],
+    "Neural Network Training": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/neural-network-training",
+            "is_completed": false
+        }
+    ],
+    "The Catacombs of Chronos": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/the-catacombs-of-chronos",
+            "is_completed": false
+        }
+    ],
+    "Beep Beep Beep": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/beep-beep-beep",
+            "is_completed": false
+        }
+    ],
+    "Tower of Hanoi Rules": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/tower-of-hanoi-rules",
+            "is_completed": false
+        }
+    ],
+    "Low Cost Road Network": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/low-cost-road-network",
+            "is_completed": false
+        }
+    ],
+    "Lucky Pairs": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/lucky-pairs",
+            "is_completed": false
+        }
+    ],
+    "Board Game Sequences": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/board-game-sequences",
+            "is_completed": false
+        }
+    ],
+    "Adaptive Arithmetic Coding": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/adaptive-arithmetic-coding",
+            "is_completed": false
+        }
+    ],
+    "Pancake Sorting": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/pancake-sorting",
+            "is_completed": false
+        }
+    ],
+    "Apogee": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/apogee",
+            "is_completed": false
+        }
+    ],
+    "Easter Bunnies 3D": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-bunnies-3d",
+            "is_completed": false
+        }
+    ],
+    "Easter Bunnies 2D Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-bunnies-2d-advanced",
+            "is_completed": false
+        }
+    ],
+    "Langton's Ant": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/langtons-ant",
+            "is_completed": false
+        }
+    ],
+    "Vigenere Cipher Cracker": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/vigenere-cipher-cracker",
+            "is_completed": false
+        }
+    ],
+    "Towers Under Cover": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/towers-under-cover",
+            "is_completed": false
+        }
+    ],
+    "XWords": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/xwords",
+            "is_completed": false
+        }
+    ],
+    "Accordion": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/accordion",
+            "is_completed": false
+        }
+    ],
+    "Easter Eggs Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/easter-eggs-advanced",
+            "is_completed": false
+        }
+    ],
+    "Dice Black Jack": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dice-black-jack",
+            "is_completed": false
+        }
+    ],
+    "Rule 30 by Turing": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/rule-30-by-turing",
+            "is_completed": false
+        }
+    ],
+    "Board Game Sequences Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/board-game-sequences-advanced",
+            "is_completed": false
+        }
+    ],
+    "Train Merge Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/train-merge-advanced",
+            "is_completed": false
+        }
+    ],
+    "Circle Drawing Algorithm": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/circle-drawing-algorithm",
+            "is_completed": false
+        }
+    ],
+    "Dobbin's Long Journey": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/dobbins-long-journey",
+            "is_completed": false
+        }
+    ],
+    "Two Buckets Advanced": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/two-buckets-advanced",
+            "is_completed": false
+        }
+    ],
+    "Sound-Controlled Robot": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/sound-controlled-robot",
+            "is_completed": false
+        }
+    ],
+    "Comment Stripper": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/comment-stripper",
+            "is_completed": false
+        }
+    ],
+    "Trick-Taking Game": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/trick-taking-game",
+            "is_completed": false
+        }
+    ],
+    "Road Network Destruction": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/road-network-destruction",
+            "is_completed": false
+        }
+    ],
+    "Predictable Board Game on 10 Boards": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/predictable-board-game-on-10-boards",
+            "is_completed": false
+        }
+    ],
+    "Klotski": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/klotski",
+            "is_completed": false
+        }
+    ],
+    "Hashtable Implementation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hashtable-implementation",
+            "is_completed": false
+        }
+    ],
+    "Hamurabi": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hamurabi",
+            "is_completed": false
+        }
+    ],
+    "Ordered Brackets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/ordered-brackets",
+            "is_completed": false
+        }
+    ],
+    "Party Presents": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/party-presents",
+            "is_completed": false
+        }
+    ],
+    "Launch to Orbit": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/launch-to-orbit",
+            "is_completed": false
+        }
+    ],
+    "Multiplicative Persistence Backtrace": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/multiplicative-persistence-backtrace",
+            "is_completed": false
+        }
+    ],
+    "Transposing List of Lists": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/transposing-list-of-lists",
+            "is_completed": false
+        }
+    ],
+    "Turing Maze": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/turing-maze",
+            "is_completed": false
+        }
+    ],
+    "Christmas Puzzle": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/christmas-puzzle",
+            "is_completed": false
+        }
+    ],
+    "Polyomino Generation": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/polyomino-generation",
+            "is_completed": false
+        }
+    ],
+    "Hanoi Tower Heights": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hanoi-tower-heights",
+            "is_completed": false
+        }
+    ],
+    "Logic Glitches": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/logic-glitches",
+            "is_completed": false
+        }
+    ],
+    "Radio Spies": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/radio-spies",
+            "is_completed": false
+        }
+    ],
+    "Is the Earth Flat": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/is-the-earth-flat",
+            "is_completed": false
+        }
+    ],
+    "Hexplore": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/hexplore",
+            "is_completed": false
+        }
+    ],
+    "Shadok and Gibis": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/shadok-and-gibis",
+            "is_completed": false
+        }
+    ],
+    "Shift Register Randomizer": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/shift-register-randomizer",
+            "is_completed": false
+        }
+    ],
+    "Launch to Orbit automated": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/launch-to-orbit-automated",
+            "is_completed": false
+        }
+    ],
+    "Playfair Cipher Cracking": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/playfair-cipher-cracking",
+            "is_completed": false
+        }
+    ],
+    "Foxes and Geese": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/foxes-and-geese",
+            "is_completed": false
+        }
+    ],
+    "Three Buckets Re-visited": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/three-buckets-re-visited",
+            "is_completed": false
+        }
+    ],
+    "Maze Mapping Robot": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/maze-mapping-robot",
+            "is_completed": false
+        }
+    ]
+}
