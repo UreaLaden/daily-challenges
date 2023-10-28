@@ -47,7 +47,7 @@ def get_page_source(main_url:str,file_name:str):
         with open(f"{file_name}.txt",'w') as file:
             file.write(page)
 
-        driver.quit()
+        driver.quit()        
     except Exception as error:
         print(f"There was an error: {error}")
 
@@ -118,6 +118,9 @@ def extract_challenge_data(url:str):
         soup =  BeautifulSoup(file.read(),'html.parser')
       
     challenge = get_challenge_text(soup)
+    if os.path.exists(f"{file_name}.txt"):
+        os.remove(f"{file_name}.txt")
+
     return (challenge,url)
     
 
@@ -158,6 +161,12 @@ def has_challenges():
         return False in [data[i][0]['is_completed'] for i in data]
 
 if __name__ == '__main__':
+    if not os.path.exists("challenges.json"):
+        get_page_source(main_url,"source")
+        convert_source_to_json("source.txt")
+
+    send_challenges()
+
     schedule.every().day.at("09:00").do(send_challenges)
     while has_challenges():
         time.sleep(3600)

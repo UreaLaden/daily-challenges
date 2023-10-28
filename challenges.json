@@ -467,6 +467,12 @@
             "is_completed": false
         }
     ],
+    "Finding Squares": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/finding-squares",
+            "is_completed": false
+        }
+    ],
     "Code Guesser": [
         {
             "endpoint": "https://www.codeabbey.com/index/task_view/code-guesser",
@@ -488,12 +494,6 @@
     "Pythagorean Triples": [
         {
             "endpoint": "https://www.codeabbey.com/index/task_view/pythagorean-triples",
-            "is_completed": false
-        }
-    ],
-    "Finding Squares": [
-        {
-            "endpoint": "https://www.codeabbey.com/index/task_view/finding-squares",
             "is_completed": false
         }
     ],
@@ -1889,15 +1889,15 @@
             "is_completed": false
         }
     ],
-    "Elliptic Curves Basics": [
-        {
-            "endpoint": "https://www.codeabbey.com/index/task_view/elliptic-curves-basics",
-            "is_completed": false
-        }
-    ],
     "Line Drawing Algorithm": [
         {
             "endpoint": "https://www.codeabbey.com/index/task_view/line-drawing-algorithm",
+            "is_completed": false
+        }
+    ],
+    "Elliptic Curves Basics": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/elliptic-curves-basics",
             "is_completed": false
         }
     ],
@@ -2177,15 +2177,15 @@
             "is_completed": false
         }
     ],
-    "Ordered Brackets": [
-        {
-            "endpoint": "https://www.codeabbey.com/index/task_view/ordered-brackets",
-            "is_completed": false
-        }
-    ],
     "Party Presents": [
         {
             "endpoint": "https://www.codeabbey.com/index/task_view/party-presents",
+            "is_completed": false
+        }
+    ],
+    "Ordered Brackets": [
+        {
+            "endpoint": "https://www.codeabbey.com/index/task_view/ordered-brackets",
             "is_completed": false
         }
     ],
